@@ -14,9 +14,25 @@
 
 4.What is an arrow function?
 
-    Answer: An arrow function is a shorter syntax for writing functions in JavaScript that does not have its own this context.
+
+    Answer: An arrow function is a shorter syntax for writing functions in JavaScript that does not have 
+    its own this context.
 
 5.What are template literals?
 
-    Answer: Template literals are special strings in JavaScript, enclosed in backticks, that allow inserting variables or expressions directly and writing multi-line strings easily.
+    Answer: Template literals are special strings in JavaScript, enclosed in backticks, that allow 
+    inserting variables or expressions directly and writing multi-line strings easily.
 
+# Features
+
+- Cards with green or purple top border based on issue status (open or closed).
+- Loading spinner displayed while data is being fetched.
+- Active category button highlights on selection.
+- Search functionality to filter issues dynamically.
+- Responsive UI with clean design and interactive elements.
+
+# Technologies Used
+
+HTML
+CSS (Vanilla, Tailwind, DaisyUI)
+JavaScript (Vanilla)
